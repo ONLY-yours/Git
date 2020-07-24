@@ -4,15 +4,17 @@
 
 在你要上传的位置上打开Git Bash（cmd）
 
-![image-20200723213653513](C:\Users\i m yours\AppData\Roaming\Typora\typora-user-images\image-20200723213653513.png)
+![image1](./image/image1.png)
+
+
 
 ### 2.如果是第一次操作需要如下所示
 
-![image-20200723213822557](C:\Users\i m yours\AppData\Roaming\Typora\typora-user-images\image-20200723213822557.png)
+![image2](./image/image2.png)
 
 ### 3.第一次需要连接GitHub上面的仓库地址
 
-![image-20200723214136632](C:\Users\i m yours\AppData\Roaming\Typora\typora-user-images\image-20200723214136632.png)
+![image3](./image/image3.png)
 
 ### 4.后面提交
 
